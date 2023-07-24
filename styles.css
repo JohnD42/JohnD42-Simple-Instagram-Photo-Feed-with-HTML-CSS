@@ -2,4 +2,11 @@
   display: flex;
 }
 
-.
+.photoHeaderDiv {
+  display: flex;
+}
+
+.contentDiv {
+  align: center;
+  width: 50%;
+}
